@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @TheAush
-- 👀 I’m interested in Earning lots of money
-- 🌱 I’m currently learning C, Python, Java, Web Development
-- 💞️ I’m looking to collaborate on Web dev
-- 📫 Mail : aushkhan2@gmail.com
+## About Me
 
-<!---
-TheAush/TheAush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm Aush Khan, a passionate learner and tech enthusiast. I have a strong interest in Python/Java/Web development.
+I love exploring new technologies, solving problems, and collaborating with others on exciting projects.
+
+### Skills
+
+- [Python]: Proficiency level 4/5
+- [Java]: Proficiency level 3/5
+- [Web development]: Proficiency level 4/5
+
+### Education
+
+- [Degree/Certification]: [Institution], [Year]
+- [Degree/Certification]: [Institution], [Year]
+
+### Projects
+
+- [Project 1]: Brief description or link
+- [Project 2]: Brief description or link
+- [Project 3]: Brief description or link
+
+### Interests
+
+- [Interest 1]
+- [Interest 2]
+- [Interest 3]
+
+### Contact
+
+- Email: aushkhan2@gmail.com
+- LinkedIn: https://www.linkedin.com/in/theaush/
