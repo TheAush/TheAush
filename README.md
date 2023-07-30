@@ -16,9 +16,14 @@ I love exploring new technologies, solving problems, and collaborating with othe
 
 ### Projects
 
-- [Project 1]: Brief description or link
-- [Project 2]: Brief description or link
-- [Project 3]: Brief description or link
+- [News Letter]: Created a website which sends top NEWS headlines to the user's mail ID.
+  Integrated News API to fetch latest News articles.
+  Technology used : React, NodeJS, MongoDB.
+- [Face Detection]: Built a face detection application using Open CV and Haar cascade.
+  Technology used : Python, Matplotlib, Open CV. 
+- [Decentralized File Storage]: Created a decentralized file storing website which uses IPFS to store data and Blockchain to
+  store hash.
+  Technology used : React, Node JS, IPFS, Meta Mask, Ganache, Truffle.
 
 ### Interests
 
@@ -30,3 +35,4 @@ I love exploring new technologies, solving problems, and collaborating with othe
 
 - Email: aushkhan2@gmail.com
 - LinkedIn: https://www.linkedin.com/in/theaush/
+- GitHub: https://github.com/TheAush
