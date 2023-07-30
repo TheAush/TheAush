@@ -11,7 +11,7 @@ I love exploring new technologies, solving problems, and collaborating with othe
 
 ### Projects
 
-- [News Letter]: Created a website which sends top NEWS headlines to the user's mail ID.
+- News Letter: Created a website which sends top NEWS headlines to the user's mail ID.
   Integrated News API to fetch latest News articles.
   Technology used : React, NodeJS, MongoDB.
 - Face Detection: Built a face detection application using Open CV and Haar cascade.
